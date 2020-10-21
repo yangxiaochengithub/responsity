@@ -1,2 +1,0 @@
-# responsity
-responsity
